@@ -25,6 +25,6 @@ Pero el factor principal que me hizo dar el paso a realizar esta tarea fue el li
 
 El contenido que voy a buscar traer al blog son reviews o ideas de libros que me hayan parecido interesantes, cursos/libros de programación que haya estudiado y eso también puede llevar a aprendizaje general de programación, Tal vez publique algunos pensamientos generales míos y que crea que pueden servir a otras personas, recuerden nunca somos los únicos a los que nos pasa algo, siempre hay alguien más que nos va a comprender y que haya pasado lo mismo en un pasado.
 
-## Contacto
+## Contacto  
 
 
