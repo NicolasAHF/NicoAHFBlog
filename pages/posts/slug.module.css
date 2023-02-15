@@ -1,0 +1,27 @@
+.main{
+    margin-bottom: 1rem;
+}
+.main div{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    max-width: 75ch;
+}
+
+.main h1{
+    text-align: center;
+}
+
+.text{
+    font-size: .75rem;
+}
+
+.img{
+    overflow: hidden;
+    display: block;
+    width: 100%;
+    padding: 0;
+    max-height: 200px;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+}

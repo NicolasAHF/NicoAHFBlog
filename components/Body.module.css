@@ -1,0 +1,22 @@
+.container{
+    display: grid;
+    grid-template-rows: 40% 20% auto;
+    padding: 7.0rem;
+    max-width: 75ch;
+    margin-bottom: 4.0rem;
+    margin-top: -4.5rem;
+}
+
+.container h2{
+    font-size: 2.5rem;
+    text-align: center;
+}
+
+@media only screen and (max-width: 600px) {
+    .container h2{
+        font-size: 1.0rem;
+    }
+    .container p{
+        font-size: 10px;
+    }
+  }

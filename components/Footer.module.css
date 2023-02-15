@@ -1,0 +1,24 @@
+
+.social{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 1rem;
+    padding: 1rem;
+    padding-right: 5rem;
+}
+
+.media{
+    text-decoration: none;
+}
+
+@media only screen and (max-width: 600px) {
+    .footer{
+        display: flex;
+        font-size: 12px;
+        align-items: center;
+        margin: .5rem;
+    }
+    .social{
+        padding-right: .25rem;
+    }
+  }
