@@ -1,9 +1,6 @@
 .container{
-    display: grid;
-    grid-template-rows: 40% 20% auto;
-    padding: 7.0rem;
+    padding: 5.0rem;
     max-width: 75ch;
-    margin-bottom: 4.0rem;
     margin-top: -4.5rem;
 }
 
@@ -17,6 +14,6 @@
         font-size: 1.0rem;
     }
     .container p{
-        font-size: 10px;
+        font-size: 13px;
     }
   }

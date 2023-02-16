@@ -1,5 +1,6 @@
 .main{
     margin-bottom: 1rem;
+    max-width: 75ch;
 }
 .main div{
     display: flex;
