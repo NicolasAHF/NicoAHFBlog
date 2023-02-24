@@ -2,7 +2,7 @@
 title: "Make Time Opinion"
 description: "Make time es un libro sobre estrategias para poder ganar tiempo en lo que quieres hacer, en este post voy a dar mi opinión acerca de el luego de haberlo terminado"
 date: "23/02/2023"
-bannerImage: "/images/posts/maketime.jpg"
+bannerImage: "/images/posts/maketimevs.jpg"
 tags:
   - Libros
 footer: "Y recuerda que puedes contactarme por cualquiera de las redes sociales publicadas aquí debajo o por mi mail, espero que hayas disfrutado de este post! ¡A seguir aprendiendo!"

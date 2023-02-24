@@ -25,8 +25,8 @@ export default function Post({ frontmatter, content }) {
       <div>
         <Image
           src={bannerImage}
-          width="200"
-          height="200"
+          width="300"
+          height="300"
           alt={title}
           className={classes.img}
         />
@@ -36,9 +36,7 @@ export default function Post({ frontmatter, content }) {
         </h2>
         <div dangerouslySetInnerHTML={{ __html: md().render(content) }} />
       </div>
-      <div>
-      {footer}
-      </div>
+      <div>{footer}</div>
     </main>
   );
 }
