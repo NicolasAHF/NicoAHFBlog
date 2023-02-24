@@ -10,10 +10,6 @@ import { blogContext } from "../context/BlogContext";
 export default function Blog({ posts }) {
   const blogCtx = useContext(blogContext);
 
-  const clickHandler = () => {
-    blogCtx.setShowFilter(!blogCtx.showFilter);
-  };
-
   return (
     <>
       <Head>
@@ -28,9 +24,6 @@ export default function Blog({ posts }) {
         />
         <meta name="author" content="Nicolas Hernandez" />
       </Head>
-      <button className={classes.btn} onClick={clickHandler}>
-        Filtrar
-      </button>
       <main className={classes.main}>
         {posts.map((post) => {
           const { slug, frontmatter } = post;
